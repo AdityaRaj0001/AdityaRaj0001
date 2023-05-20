@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AdityaRaj0001
-- 👀 I’m interested in coding languages and its application..
-- 🌱 I’m currently learning c++ 
+- 👋 Hi, I’m Addy
+- 👀 I’m interested in webDev and programming languages like cpp
+- 🌱 I’m currently learning React and Git control
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
