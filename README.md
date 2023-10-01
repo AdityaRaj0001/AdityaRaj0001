@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Addy</h1>
 <h3 align="center">I like development, and That's a confession.</h3>
 
-- 🔭 I’m currently working on AI Image modification tools like FACESWAPPER, BGCHANGER, AVATAR_CHANGER, here's a link to one deployed recently [Faceswapper](https://gokapturefaceswapper.netlify.app/)
+- 🔭 I’m currently working on AI Image modification tools like FACESWAPPER, BGCHANGER, AVATAR_CHANGER.
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT and REDUX and other ANimation Libraries**
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
-- 💬 Ask me about **react,javascript,css and HTML.**
+- 💬 Ask me about **React,javascript,css and HTML.**
 
 - 📫 How to reach me **meadityaraj0001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zFr5UeKMwK-TD86RLICdt8LhvFk60FRi/view?usp=sharing](https://drive.google.com/file/d/1zFr5UeKMwK-TD86RLICdt8LhvFk60FRi/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zFr5UeKMwK-TD86RLICdt8LhvFk60FRi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
