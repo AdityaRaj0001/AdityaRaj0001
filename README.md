@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Addy</h1>
 <h3 align="center">I like development, and That's a confession.</h3>
 
-- 🔭 I’m currently working on AI Image modification tools like FACESWAPPER, BGCHANGER, AVATAR_CHANGER.
+- 🔭 I’m recently worked on AI Image modification tools like FACESWAPPER, BGCHANGER, AVATAR_CHANGER using Img2Img apis.
 
-- 🌱 I’m currently learning **REACT and REDUX and other ANimation Libraries**
+- 🌱 I’m currently learning **Javascript with some Projects and Also learning Git and Github**
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
