@@ -3,7 +3,7 @@
 
 - 🔭 I’m recently worked on AI Image modification tools like FACESWAPPER, BGCHANGER, AVATAR_CHANGER using Img2Img apis.
 
-- 🌱 I’m currently learning **Javascript with some Projects and Also learning Git and Github**
+- 🌱 I’m currently learning **REACT And ANIMATION LIBRARIES LIKE GSAP**
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
