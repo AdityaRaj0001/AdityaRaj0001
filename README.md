@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Addy</h1>
 <h3 align="center">I like development, and That's a confession.</h3>
 
-- 🔭 I’m recently worked on AI Image modification tools like FACESWAPPER, BGCHANGER, AVATAR_CHANGER using Img2Img apis.
+- 🔭 I’m currently interning at CREW, a gaming sector company,  as a FRONT-END dev using GSAP and REACT+VITE.
 
-- 🌱 I’m currently learning **REACT And ANIMATION LIBRARIES LIKE GSAP**
+- 🌱 I’m currently learning **BACKEND And ANIMATION LIBRARIES LIKE GSAP for FRONTEND**
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
-- 💬 Ask me about **React,javascript,css and HTML.**
+- 💬 Ask me about **React,javascript,css and HTML, GSAP**
 
 - 📫 How to reach me **meadityaraj0001@gmail.com**
 
