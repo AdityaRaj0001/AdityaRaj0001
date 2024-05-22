@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interning at CREW, a gaming sector company,  as a FRONT-END dev using GSAP and REACT+VITE.
 
-- 🌱 I’m currently learning **BACKEND And ANIMATION LIBRARIES LIKE GSAP for FRONTEND**
+- 🌱 I’m currently learning **TypeScript, NEXTjs, and GSAP**
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
