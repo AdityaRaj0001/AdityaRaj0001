@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meadityaraj0001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zFr5UeKMwK-TD86RLICdt8LhvFk60FRi/view?usp=sharing](https://drive.google.com/file/d/1zFr5UeKMwK-TD86RLICdt8LhvFk60FRi/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hsMJru6JkURLR20xmsIxYTRdAVZ5Hhdd/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
