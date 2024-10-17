@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Addy</h1>
 <h3 align="center">I like development, and That's a confession.</h3>
 
-- 🔭 I’m currently interning at CREW, a gaming sector company,  as a FRONT-END dev using GSAP and REACT+VITE.
+- 🔭 I’m currently interning at CREW, as a FRONT-END dev using GSAP and REACT+VITE with Typescript.
 
-- 🌱 I’m currently learning **TypeScript, NEXTjs, and GSAP**
+- 🌱 I’m currently learning **Langchains 👌**
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
-- 💬 Ask me about **React,javascript,css and HTML, GSAP**
+- 💬 Ask me about **Frontend and Backend topics 📚**
 
 - 📫 How to reach me **meadityaraj0001@gmail.com**
 
