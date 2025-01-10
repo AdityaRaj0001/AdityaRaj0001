@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Addy</h1>
 <h3 align="center">I like development, and That's a confession.</h3>
 
-- 🔭 I’m currently interning at CREW, as a FRONT-END dev using GSAP and REACT+VITE with Typescript.
+- 🔭 I’m currently interning at <a href="https://www.linkedin.com/company/crewtm/posts/?feedView=all"> Crew </a>, as a FRONT-END dev, working with Typescript and React and some cool animation libraries in javascript.
 
-- 🌱 I’m currently learning **Langchains 👌**
+- 🌱 I’m currently learning **Creative Web👌**
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
