@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interning at <a href="https://www.linkedin.com/company/crewtm/posts/?feedView=all"> Crew </a>, as a FRONT-END dev, working with Typescript and React and some cool animation libraries in javascript.
 
-- 🌱 I’m currently learning **Functional and Creative Web👌**
+- 🌱 I’m currently learning Blockchain, creative web and improving on Data structures and algorithms as well as JS fundamentals.
 
 - 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
