@@ -1,17 +1,17 @@
 <h1 align="center">Hey, I'm Addy</h1>
-<h3 align="center">I like working on something that people actually want</h3>
+<h3 align="center">I like working on something that people actually want 🤌</h3>
 
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/crewtm/posts/?feedView=all"> Crew </a>, as a FRONT-END dev, working with Typescript and React and GSAP.
+-  These days I'm working on a personal project👀 that utilizes webRTC and websockets, along with react+vite in frontend.
 
-- 🌱 I’m currently learning Gen AI and backend topics.
+-  I’m currently learning Gen AI and backend topics.
 
-- 👨‍💻 All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
+- All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
-- 💬 Ask me about **Frontend and Backend topics 📚**
+- Ask me about **Frontend and Backend topics 📚**
 
-- 📫 How to reach me **meadityaraj0001@gmail.com**
+- How to reach me **meadityaraj0001@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sJMuSw0AHD78Uxj1BJ5IbpRPbe_H6IQT/view?usp=sharing" target="_blank">Resume</a>
+- Know about my experiences <a href="https://drive.google.com/file/d/16MACHDkhYUkq4RW5W1ocapCUKuEMTWlH/view?usp=drive_link" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
