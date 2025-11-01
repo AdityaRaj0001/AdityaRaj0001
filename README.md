@@ -3,7 +3,7 @@
 
 -  These days I'm working on a personal project👀 that utilizes webRTC and websockets, along with react+vite in frontend.
 
--  I’m currently learning system design and problem solving.
+- I'm currently working at GIVA as an SDE-I and am currently learning system design and problem solving.
 
 - All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
 
