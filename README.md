@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Addy</h1>
 <h3 align="center">I like working on something that people actually want 🤌</h3>
 
--  These days I'm working on a personal project👀 that utilizes webRTC and websockets, along with react+vite in frontend.
+-  doing what I love.
 
 - I'm currently working at GIVA as an SDE-I and am currently learning system design and problem solving.
 
