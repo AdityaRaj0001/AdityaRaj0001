@@ -5,8 +5,6 @@
 
 - I'm currently working at GIVA as an SDE-I and am currently learning problem solving, AI and how large scale systems work in real life.
 
-- All of my projects are available at [https://addysportfolio.netlify.app/](https://addysportfolio.netlify.app/)
-
 - Ask me about **Frontend and Backend topics 📚**
 
 - How to reach me **meadityaraj0001@gmail.com**
