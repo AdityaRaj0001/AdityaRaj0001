@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Addy</h1>
-<h3 align="center">I like working on something that people actually want 🤌</h3>
+<h3 align="center"></h3>
 
-- doing what I love <3
+- 23yo creative web dev based in bangalore, India. 
 
-- I'm currently working at GIVA as an SDE-I and am currently learning problem solving, AI and how large scale systems work in real life.
+- I'm currently working at GIVA as an SDE-I.
 
 - Ask me about **Frontend and Backend topics 📚**
 
