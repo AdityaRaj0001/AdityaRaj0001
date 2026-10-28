@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Addy</h1>
 <h3 align="center"></h3>
 
-- 23yo creative web dev based in bangalore, India. 
+- 24yo creative web dev based in bangalore, India. 
 
 - I'm currently working at GIVA as an SDE-I.
 
